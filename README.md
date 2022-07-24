@@ -1,4 +1,4 @@
-# 1d-or-2d-sampling
+# 1d or 2d sampling
 ### Frequency and distribution function.
 
 ### Step1: a choice and a possible summation 
