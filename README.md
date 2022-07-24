@@ -1,5 +1,5 @@
 # 1d or 2d sampling
-### Frequency and distribution function.
+Frequency and distribution function.
 
 ### Step1: a choice and a possible summation 
 g(X1|X2) = g(X1 and X2)/g(X2) 
