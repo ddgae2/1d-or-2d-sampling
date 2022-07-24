@@ -17,7 +17,7 @@ C language
 * console.log
 
 ### Author
-* *dGae**
+* dGae
 
 ### Acknowledgments
 Retrieved from: https://people.richland.edu/james/lecture/m170/ch01-not.html <br>
