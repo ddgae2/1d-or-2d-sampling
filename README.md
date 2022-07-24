@@ -21,7 +21,7 @@ Frequency and distribution function.
 
 ## Acknowledgments
 Retrieved from: https://people.richland.edu/james/lecture/m170/ch01-not.html <br>
-Retrieved from: Retrieved from: Freedman, Pisani, purves, adhikari, Statistics Second Edition. New York, W.W.Norton & Company, 1991
+Retrieved from: Freedman, Pisani, purves, adhikari, Statistics Second Edition. New York, W.W.Norton & Company, 1991
 
 
 
