@@ -22,6 +22,9 @@ Frequency and distribution function.
 ## Acknowledgments
 Retrieved from: https://people.richland.edu/james/lecture/m170/ch01-not.html <br>
 Retrieved from: Freedman, Pisani, purves, adhikari, Statistics Second Edition. New York, W.W.Norton & Company, 1991
+requirement in data base sampling
+Retrieved from: CS 147 Computer Architerture 3 units San Jose State course
+Retrieve from: CS 286-02 Advanced Topics in Natural Language Processing.
 
 
 
